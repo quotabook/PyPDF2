@@ -19,7 +19,7 @@ It is therefore a useful tool for websites that manage or manipulate PDFs.
 """
 
 setup(
-        name="pyPdf2",
+        name="PyPdf2",
         version="1.12",
         description="PDF toolkit",
         long_description=long_description,
@@ -35,6 +35,6 @@ setup(
             "Operating System :: OS Independent",
             "Topic :: Software Development :: Libraries :: Python Modules",
             ],
-        packages=["pyPdf2"],
+        packages=["PyPdf2"],
     )
 
